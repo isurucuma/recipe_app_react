@@ -1,0 +1,18 @@
+.recipe-list{
+    border-right: 1px solid black;
+    min-height: 100vh; /*This vh is for the view height*/
+    width: 50%;
+}
+
+.recipe-list__add-recipe-btn-container{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.recipe__value--indented{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+ 

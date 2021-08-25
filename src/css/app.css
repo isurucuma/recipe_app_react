@@ -1,0 +1,24 @@
+@import-normalize;
+@import 'recipe-list.css';
+@import 'buttons.css';
+@import 'recipe.css';
+@import 'ingredient-list.css';
+@import 'recipe-edit.css';
+
+*, *::before, *::after {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: large;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.mr-1{
+    margin-right: 5px;
+}
